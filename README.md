@@ -9,3 +9,8 @@ const hockeyTeams = [
 ];
 
 
+
+console.table(hockeyTeams);
+```
+
+
