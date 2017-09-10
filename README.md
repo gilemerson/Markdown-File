@@ -14,3 +14,6 @@ console.table(hockeyTeams);
 ```
 
 
+
+Image URL:
+
