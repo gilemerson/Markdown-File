@@ -1,4 +1,11 @@
 # Markdown-File
 Lab 1 - comp2112
 
-https://github.com/gilemerson/Markdown-File/edit/master/README.md
+```js
+const hockeyTeams = [
+   {'hockeyTeams' : 'Maple Leafs', 'city' : 'Toronto', 'payroll' : 63659167 },
+   {'hockeyTeams' : 'Avalanche', 'city' : 'Colorado', 'population' : 59464121 },
+   {'hockeyTeams' : 'Oilers', 'city' : 'Edmonton', 'population' : 69353353 }   
+];
+
+
