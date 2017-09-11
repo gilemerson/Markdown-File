@@ -15,6 +15,7 @@ console.table(hockeyTeams);
 
 
 
+
 Image URL:
 ![GitHub Logo](http://www.gilemerson.ca/school/comp2112/lab1/lab1-comp2112.png)
 
