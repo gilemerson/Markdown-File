@@ -16,6 +16,6 @@ console.table(hockeyTeams);
 
 
 Image URL:
-http://github.com - automatic![GitHub](http://www.gilemerson.ca/school/comp2112/lab1/lab1-comp2112.png)
+![GitHub Logo](http://www.gilemerson.ca/school/comp2112/lab1/lab1-comp2112.png)
 
 
